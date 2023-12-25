@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haribabu-23
+- 👋 Hi, I’m Thotli Haribabu
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning python Fullstack development
 - 💞️ I’m looking to collaborate on ...
